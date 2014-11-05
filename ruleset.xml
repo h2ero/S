@@ -27,6 +27,7 @@
     <rule ref="PEAR">
         <exclude name="PEAR.WhiteSpace.ScopeIndent"/>
         <exclude name="PEAR.NamingConventions.ValidVariableName"/>
+        <exclude name="PEAR.NamingConventions.ValidFunctionName"/>
         <exclude name="PEAR.Commenting.ClassComment"/>
         <exclude name="PEAR.Commenting.FileComment"/>
     </rule>
